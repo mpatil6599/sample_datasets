@@ -1,0 +1,8 @@
+train_number,train_name,seats_available,passenger_name,age,ticket_number,seat_number
+123,Express,100,John,25,T123,A1
+123,Express,100,Emma,30,T124,B2
+456,Superfast,150,Michael,35,T125,C3
+456,Superfast,150,Sophia,40,T126,D4
+789,Local,50,William,28,T127,E5
+789,Local,50,Sophia,32,T128,F6
+789,Local,50,Oliver,45,T129,G7
